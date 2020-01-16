@@ -1,0 +1,9 @@
+#Video RAM info - video memory information
+#Version: 1.2.2 01/03/2011
+#Author:  Rodrigo Miguel | http://linuxlike.blogspot.com
+
+Graphics adapter: Intel Corporation Core Processor Integrated Graphics Controller
+Video memory:     256 MB
+
+On error, please contact the developer <linuxlike.blogspot@gmail.com>
+For more information, visit: http://linuxlike.blogspot.com

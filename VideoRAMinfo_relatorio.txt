@@ -1,0 +1,10 @@
+#Video RAM info - informações sobre a memória de vídeo
+#Versão 1.2.1 17-02-2011
+#Autor: Rodrigo Miguel | http://linuxlike.blogspot.com
+
+Adaptador gráfico:     Intel Corporation Core Processor Integrated Graphics Controller
+Tamanho da memória:    256 MB
+
+Dados obtidos através do comando lspci | grep -i VGA e do arquivo /var/log/Xorg.0.log, linha 233:[    24.495] (==) intel(0): VideoRam: 262144 KB
+
+Em caso de erro, copie a saída do comando lspci e o conteúdo do arquivo /var/log/Xorg.0.log e envie para linuxlike.blogspot@gmail.com. Assim poderemos efetuar as devidas adaptações e/ou correções. Para maiores informações acesse http://linuxlike.blogspot.com/
